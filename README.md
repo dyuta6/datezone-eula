@@ -1,14 +1,18 @@
 # Kullanım Koşulları
 
-**Son Güncelleme:** 7-12-2025
+**Son Güncelleme:** 2025
 
 ## 1. Kabul ve Onay
 
-Datezone uygulamasını ("Uygulama", "Hizmet") kullanarak, bu Kullanım Koşullarını kabul etmiş sayılırsınız. Bu koşulları kabul etmiyorsanız, lütfen uygulamayı kullanmayın.
+Party Buddy uygulamasını ("Uygulama", "Hizmet") kullanarak, bu Kullanım Koşullarını kabul etmiş sayılırsınız. Bu koşulları kabul etmiyorsanız, lütfen uygulamayı kullanmayın.
+
+**ÖNEMLİ: SIFIR TOLERANS POLİTİKASI**
+
+Party Buddy, kullanıcıların güvenliğini ve saygınlığını korumak için **sıfır tolerans politikası** uygular. Uygunsuz içerik, kötüye kullanım veya taciz edici davranışlara **hiçbir tolerans gösterilmez**. Bu tür davranışlarda bulunan kullanıcıların hesapları derhal kapatılır ve içerikleri anında kaldırılır. Şikayetler 24 saat içinde incelenir ve gerekli işlemler yapılır.
 
 ## 2. Hizmet Açıklaması
 
-Datezone, kullanıcıların birbirleriyle tanışmasını ve iletişim kurmasını sağlayan bir sosyal tanışma platformudur. Uygulama, 18 yaş ve üzeri kullanıcılar içindir.
+Party Buddy, kullanıcıların etkinlikler oluşturmasını, keşfetmesini ve katılmasını sağlayan bir aktivite odaklı sosyal keşif platformudur. Kullanıcılar ortak ilgi alanlarına sahip etkinlikler aracılığıyla birbirleriyle tanışabilir ve iletişim kurabilir. Uygulama, 18 yaş ve üzeri kullanıcılar içindir.
 
 ## 3. Kullanıcı Sorumlulukları
 
@@ -26,9 +30,9 @@ Datezone, kullanıcıların birbirleriyle tanışmasını ve iletişim kurmasın
 - Yanıltıcı, yanlış veya sahte bilgi paylaşmak yasaktır
 - Başkalarının fotoğraflarını veya içeriklerini izinsiz kullanmak yasaktır
 
-## 4. Yasaklanan Davranışlar
+## 4. Yasaklanan Davranışlar ve Sıfır Tolerans Politikası
 
-Aşağıdaki davranışlar kesinlikle yasaktır ve hesabınızın derhal kapatılmasına neden olur:
+**UYARI:** Aşağıdaki davranışlar kesinlikle yasaktır ve hesabınızın **derhal ve kalıcı olarak kapatılmasına** neden olur. Bu konularda **hiçbir tolerans gösterilmez**:
 
 - **Spam ve İstenmeyen İçerik:** Tekrarlayan mesajlar, otomatik mesajlar veya spam içerik göndermek
 - **Zararlı İçerik:** Nefret söylemi, tehdit, taciz, zorbalık veya zararlı içerik paylaşmak
@@ -76,7 +80,7 @@ Aşağıdaki davranışlar kesinlikle yasaktır ve hesabınızın derhal kapatı
 - Uygulama "olduğu gibi" sağlanır, herhangi bir garanti verilmez
 - Kullanıcılar arasındaki etkileşimlerden sorumlu değiliz
 - Uygulama kullanımından kaynaklanan herhangi bir zarardan sorumlu tutulamayız
-- Eşleşmelerin veya iletişimlerin sonuçlarından sorumlu değiliz
+- Etkinlik katılımlarının veya kullanıcılar arası iletişimlerin sonuçlarından sorumlu değiliz
 
 ## 9. Hesap Kapatma
 
@@ -103,14 +107,27 @@ Bu Kullanım Koşulları Türkiye Cumhuriyeti yasalarına tabidir. Herhangi bir 
 
 Kullanım Koşulları ile ilgili sorularınız için bizimle iletişime geçebilirsiniz:
 
-**E-posta:** dyuta6@gmail.com
+**E-posta:** [İletişim e-postanızı buraya ekleyin]
+**Adres:** [İş adresinizi buraya ekleyin]
 
-## 13. Kullanıcı Şikayetleri
+## 13. Kullanıcı Şikayetleri ve İçerik Moderation
 
+### 13.1. Şikayet Mekanizması
 Şikayetlerinizi aşağıdaki yollarla iletebilirsiniz:
-- Uygulama içi destek sistemi
+- Uygulama içi şikayet sistemi (profil ve mesaj şikayetleri)
 - E-posta yoluyla
 - İlgili yasal mercilere başvuru
+
+### 13.2. Şikayet İşleme Süreci
+- Tüm şikayetler 24 saat içinde incelenir
+- Uygunsuz içerik tespit edildiğinde derhal kaldırılır
+- İhlal eden kullanıcının hesabı derhal kapatılır
+- Şikayet eden kullanıcıya işlem sonucu bildirilir
+
+### 13.3. İçerik Filtreleme
+- Uygulama, otomatik içerik filtreleme sistemi kullanır
+- Uygunsuz içerik tespit edildiğinde otomatik olarak engellenir
+- Kullanıcılar uygunsuz içerik gönderemez veya paylaşamaz
 
 ## 14. Son Hükümler
 
@@ -121,4 +138,3 @@ Kullanım Koşulları ile ilgili sorularınız için bizimle iletişime geçebil
 ---
 
 *Bu belge, Türkiye Cumhuriyeti yasalarına ve uluslararası standartlara uygun olarak hazırlanmıştır. Uygulamayı kullanarak bu koşulları kabul etmiş sayılırsınız.*
-
